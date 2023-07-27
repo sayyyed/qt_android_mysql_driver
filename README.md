@@ -1,2 +1,2 @@
-# qt_android_mysql_driver
-Qt6 Mysql (Mariadb) Driver For Android
+# Qt Android Mysql Driver
+Tested for armv7a android and Qt 6.5.0
