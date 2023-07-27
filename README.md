@@ -1,2 +1,2 @@
 # Qt Android Mysql Driver
-Tested for armv7a android and Qt 6.5.0
+Tested for android armv7a and Qt 6.5.0
